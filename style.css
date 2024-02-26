@@ -2,3 +2,15 @@ header {
     background-color: #424E61;
     color: white;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.cabecalho{
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+}
