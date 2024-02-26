@@ -13,4 +13,5 @@ header {
     background-color: blueviolet;
     color: white;
     display: flex;
+    justify-content: space-around;
 }
