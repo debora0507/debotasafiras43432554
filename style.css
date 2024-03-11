@@ -28,7 +28,7 @@ header {
     }
     
     .cabecalho-imagem  {
-    width: 30%;
+    width: 25%;
     }
 
     .gato.jpg {
@@ -40,3 +40,12 @@ header {
         padding: 24px 0;
 
     }
+
+    .gatinho-div-conteudo{
+        width: 35%;
+    }
+    .gatinha-titulo {
+        padding: 24px 0;
+
+        }
+    
