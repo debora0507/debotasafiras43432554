@@ -31,7 +31,7 @@ header {
     width: 30%;
     }
 
-    .gato {
+    .gato.jpg {
         background-image: linear-gradient(#424242, 16CFF8);
         color: aliceblue;
         display: flex;
