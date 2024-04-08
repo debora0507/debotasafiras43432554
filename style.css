@@ -60,6 +60,10 @@ body {
     padding: 24px 0;
 }
 
+.h1 {
+    text-align: center;
+}
+
 
 .capivara-imagem{
     width: 100%;
