@@ -82,21 +82,7 @@ body {
     padding: 50px 0;
 }
 
-.capivara-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
 
-.rodape{
-    background-color: black;
-    text-align: center;
-}
-
-.rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
-   
-}
 
 .doe {
 text-align: center;
