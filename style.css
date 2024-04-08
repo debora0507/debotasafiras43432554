@@ -10,6 +10,7 @@ header {
 body {
     font-family: 'Poppins', sans-serif;
     align-items: center;
+    text-align: center;
 }
 .cabecalho {
     background-color: #424E61;
@@ -48,34 +49,7 @@ body {
     padding: 24px 0;
 }
 
-.capivara-div-conteudo{
-    width: 35%;
-}
 
-
-.capivara-titulo{
-    padding: 24px 0;
-}
-
-#capybara{
-    padding: 24px 0;
-}
-
-
-
-.capivara-imagem{
-    width: 100%;
-}
-
-.capivara-icone{
-    width: 24px;
-    padding: 4px 8px;
-}
-
-.capivara-div{
-    text-align: center;
-    padding: 16px 0;
-}
 
 .capivara-titulo{
     text-align: center;
